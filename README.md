@@ -18,6 +18,12 @@ Transformers Indepth Architecture by Krish Naik and Jay Alammar;
 IBM Technology YouTube Channel.
 
 
+End to End LLM Project Using LangChain, Google Palm In Ed-Tech Industry by CodeBasics
+
+langchain_helper.py #loadingdata, embedding, retreivalQA
+main.py #streamlit
+requirements.txt #dependencies required
+
 
 
 
