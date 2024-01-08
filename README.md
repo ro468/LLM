@@ -1,4 +1,4 @@
-# End to End LLM Project Using LangChain, Google Palm In Ed-Tech Industry by CodeBasics**
+# End to End LLM Project Using LangChain, Google Palm In Ed-Tech Industry
 
 
 In this comprehensive Language Model (LLM) project, we're leveraging the capabilities of Google Palm and LangChain to develop a Q&A system for CodeBasics, an e-learning company specializing in data-related courses and bootcamps (website: codebasics.io). Currently, CodeBasics manages learner inquiries through Discord or email. Our objective is to create a streamlined solution using Streamlit, LangChain, and Google Palm to facilitate direct student interaction and reduce the workload on CodeBasics' human staff.
@@ -29,7 +29,7 @@ FAISS for efficient vector database management.
 
 <img width="1077" alt="Screenshot 2023-11-13 at 11 31 37 PM" src="https://github.com/ro468/LLM_Learning_Progress_Rohini/assets/82668945/922cf3d1-edaa-4d03-bb15-30f9335a8952">
 
-References: Codebasics Youtube Channel
+
 
 
 
