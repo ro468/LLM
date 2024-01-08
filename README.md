@@ -3,19 +3,19 @@ This repository is a record of my ongoing learning journey in the field of AI
 
 Theory covered:
 
-what is LLM?;
-How do they work? LLM= DATA+ARCHITECTURE+TRAINING?;
-What are transformers?;
-Transformers Indepth Architecture;
-Vector Database;
-Langchain Tutorial;
+what is LLM?;  
+How do they work? LLM= DATA+ARCHITECTURE+TRAINING?;  
+What are transformers?;  
+Transformers Indepth Architecture;  
+Vector Database;  
+Langchain Tutorial;  
 
 
 References by:
 
-Langchain Tutorial by CodeBasics;
-Transformers Indepth Architecture by Krish Naik and Jay Alammar;
-IBM Technology YouTube Channel.
+Langchain Tutorial by CodeBasics;  
+Transformers Indepth Architecture by Krish Naik and Jay Alammar;  
+IBM Technology YouTube Channel.  
 
 
 **End to End LLM Project Using LangChain, Google Palm In Ed-Tech Industry by CodeBasics**
@@ -35,18 +35,17 @@ In this comprehensive Language Model (LLM) project, we're leveraging the capabil
 
 **Participants in this project will gain hands-on experience in the following areas:**
 
-LangChain and Google Palm for LLM-based Q&A systems.
-Streamlit for creating a user-friendly interface.
-Huggingface instructor embeddings for text representation.
-FAISS for efficient vector database management.
+LangChain and Google Palm for LLM-based Q&A systems.  
+Streamlit for creating a user-friendly interface.  
+Huggingface instructor embeddings for text representation.  
+FAISS for efficient vector database management.  
 
 **Project Structure:**
 
-'main.py': The main script for the Streamlit application.
-'langchain_helper.py': A module containing all the necessary LangChain code.
-'requirements.txt': A file listing the Python packages required for the project.
-'.env': Configuration file storing the Google API key.
-
+'main.py': The main script for the Streamlit application.  
+'langchain_helper.py': A module containing all the necessary LangChain code.  
+'requirements.txt': A file listing the Python packages required for the project.  
+'.env': Configuration file storing the Google API key.  
 
 <img width="1077" alt="Screenshot 2023-11-13 at 11 31 37 PM" src="https://github.com/ro468/LLM_Learning_Progress_Rohini/assets/82668945/922cf3d1-edaa-4d03-bb15-30f9335a8952">
 
