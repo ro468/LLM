@@ -25,11 +25,11 @@ In this comprehensive Language Model (LLM) project, we're leveraging the capabil
 
 **Project Highlights**
 
-1.Utilization of an actual CSV file containing FAQs currently employed by CodeBasics.
-2.Integration of LangChain and Google Palm to construct an LLM-based question and answer system, aiming to alleviate the burden on human support staff.
-3.Development of a Streamlit-based user interface, allowing students to ask questions and receive prompt responses.
-4.Implementation of Huggingface instructor embeddings for text embeddings.
-5.Incorporation of FAISS for vector database functionalities.
+1.Utilization of an actual CSV file containing FAQs currently employed by CodeBasics.  
+2.Integration of LangChain and Google Palm to construct an LLM-based question and answer system, aiming to alleviate the burden on human support staff.  
+3.Development of a Streamlit-based user interface, allowing students to ask questions and receive prompt responses.  
+4.Implementation of Huggingface instructor embeddings for text embeddings.  
+5.Incorporation of FAISS for vector database functionalities.  
 
 **Learning Objectives:**
 
